@@ -22,8 +22,8 @@ console.log(item+ +item2)
 //var data=30//on hover it will tell its type is number
 //data="sakshi"//it will give error b/c above we have declared it as number
 
-var data:number|string
-data="sakshi";
-data=40;
+var datanum:number | string=30
+datanum="sakshi";
+datanum=40;
 //it will not show error b/c we have defined datatype both as number and string
 
